@@ -1,6 +1,6 @@
 # Syntax App Build - Nuxt Travel Log
 
-Created from the Syntax Podcast's Full Stack App Build series.  Link to YouTube Video:  [link](https://youtu.be/DK93dqmJJYg?si=3cO3uvgaijrKaglf)
+Created from the Syntax Podcast's Full Stack App Build series. Link to YouTube Video: [link](https://youtu.be/DK93dqmJJYg?si=3cO3uvgaijrKaglf)
 
 ## Setup
 
